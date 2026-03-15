@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Improving scalable architectures for AI-based applications**
 
-- 📝 I regularly write articles on [I enjoy mixing technology, philosophy, and geek culture to create new ideas.](I enjoy mixing technology, philosophy, and geek culture to create new ideas.)
+- 📝 I regularly write articles (I enjoy mixing technology, philosophy, and geek culture to create new ideas.)
 
 - 💬 Ask me about **Machine Learning Data Analysis Software Engineering Product Development**
 
